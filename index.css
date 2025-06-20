@@ -92,11 +92,11 @@ h2 {
   .login-box {
     flex: 100%;
     padding: 30px 20px;
-    align-items: center;
+    align-items: left;
   }
 
   .input-group {
-    width: fit-content;
+    width: 85%;
   }
   .input-group i {
     display: flexbox;
