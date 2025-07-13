@@ -43,6 +43,7 @@ h2 {
   border: 1px solid #ccc;
   border-radius: 8px;
   box-shadow: 0px 8px 10px rgba(0,0,0,0.1);
+  outline: #28a745;
 }
 .input-group i{
   position: absolute;
